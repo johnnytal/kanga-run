@@ -104,7 +104,7 @@ function initAd(){
     var admobid = {};
 
     admobid = {
-        interstitial: 'ca-app-pub-9795366520625065/8913371031'
+        interstitial: 'ca-app-pub-9795366520625065/6752478241'
     };
     
     try{
