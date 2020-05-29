@@ -51,8 +51,8 @@ preloader.prototype = {
         this.game.load.spritesheet("audioBtn","assets/elephant/images/audio.png",39 ,39);
         this.game.load.spritesheet("island", "assets/elephant/images/island.png", 156, 129/3);
 
-        this.game.load.audio('music1', 'assets/elephant/audio/music1.ogg'); 
-        this.game.load.audio('music2', 'assets/elephant/audio/music2.ogg');
+        this.game.load.audio('music1', 'assets/elephant/audio/music1.mp3'); 
+        this.game.load.audio('music2', 'assets/elephant/audio/music2.mp3');
         this.game.load.audio('add_baloon', 'assets/elephant/audio/add_baloon.ogg'); 
         this.game.load.audio('bird', 'assets/elephant/audio/bird.ogg'); 
         this.game.load.audio('chew', 'assets/elephant/audio/chew.ogg'); 
